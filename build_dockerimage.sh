@@ -1,0 +1,1 @@
+docker build -t docker_in_zsh:latest .
